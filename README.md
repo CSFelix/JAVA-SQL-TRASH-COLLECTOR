@@ -42,3 +42,8 @@
 - Medium Level: 7 trashes (plastic, metal, paper, glass, dangerous, non-recyclable, organic)
 - Hard Level: 10 trashes (plastic, metal, paper, glass, dangerous, non-recyclable, organic, wood, radioactive, hospital)
 ```
+
+----
+### `🎁 Bonus 🎁`
+
+* In the *Jogo\dist* there is the **Jogo.jar** file. Just run it to play without compile the code again!!
