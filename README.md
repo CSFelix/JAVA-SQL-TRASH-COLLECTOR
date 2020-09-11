@@ -47,3 +47,12 @@
 ### `🎁 Bonus 🎁`
 
 * In the *Jogo\dist* there is the **Jogo.jar** file. Just run it to play without compile the code again!!
+
+----
+### `✉️ Contact ✉️`
+
+> **Email:** `gabrielfelix08@outlook.com`
+
+> **Linkedin:** `---`
+
+> **Instagram:** `---`
