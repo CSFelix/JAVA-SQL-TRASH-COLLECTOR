@@ -49,13 +49,13 @@
 * In the *Jogo\dist* there is the **Jogo.jar** file. Just run it to play without compile the code again!!
 
 ----
-### `✉️ Contact ✉️`
+### `📫 Reach Me 📫`
 
-> **Email:** `csfelix08@gmail.com`
+> **Email:** **[csfelix08@gmail.com](mailto:csfelix08@gmail.com?)**
 
-> **Linkedin:** `linkedin.com/in/csfelix/`
+> **Linkedin:** **[linkedin.com/in/csfelix/](https://www.linkedin.com/in/csfelix/)**
 
-> **Instagram:** `instagram.com/c0deplus/`
+> **Instagram:** **[instagram.com/c0deplus/](https://www.instagram.com/c0deplus/)**
 
 ----
 
